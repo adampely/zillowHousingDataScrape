@@ -1,0 +1,21 @@
+state,city,zipcode,address,zpid,bathrooms,bedrooms,sqft,homtype,zestimate,rentzestimate,real rent
+NC,Durham,27704,3107 Cardinal Lake Dr,80200461,3.0,4,3100,SingleFamily,222287,1595,"1,550"
+NC,Durham,27713,117 Ebon Rd,50000123,2.0,3,1320,SingleFamily,175518,1300,"1,195"
+NC,Durham,27713,3431 Balfour E,50005271,2.0,2,1090,SingleFamily,116630,1125,"1,050"
+NC,Durham,27713,5 Lakehurst Ct,59712840,4.0,4,3046,SingleFamily,376585,2122,"2,500"
+NC,Durham,27705,4115 Peachway Dr,49994394,3.0,5,2750,SingleFamily,365634,2046,"2,400"
+NC,Durham,27703,513 N Maple St,49974533,1.0,2,1225,SingleFamily,83464,950,"1,100"
+NC,Durham,27703,2406 Teermark Ln,97867707,2.5,4,2856,SingleFamily,330718,1950,"1,800"
+NC,Durham,27704,1304 Cozart St UNIT 420,89665889,2.5,3,1460,Townhouse,126832,1175,"1,200"
+NC,Durham,27713,102 Perriwinkle Pl,50003325,2.0,3,1356,Townhouse,123199,1195,"1,200"
+NC,Durham,27705,44 Pocono Dr,109961044,2.5,2,1196,Townhouse,190362,1350,"1,350"
+NC,Durham,27704,2504 Shenandoah Ave APT B,2108319611,1.0,1,570,Townhouse,186823,895,895
+NC,Durham,27713,5 Ashwood Sq,49998545,2.0,3,1425,Townhouse,153257,1250,"1,000"
+NC,Durham,27704,4708 Miller Dr,70923938,2.0,3,1514,SingleFamily,172260,1350,"1,395"
+NC,Durham,27703,650 Ganyard Farm Way UNIT 25,89690378,3.5,3,1529,Townhouse,149418,1250,"1,250"
+NC,Durham,27713,919 Carpenter Fletcher Rd,50004385,2.5,3,1818,SingleFamily,213782,1550,"1,700"
+NC,Chapel Hill,27514,3705 High Meadow Rd,50050744,3.0,4,3385,SingleFamily,530931,2381,"2,300"
+NC,Durham,27704,2608 Shenandoah Ave,49972566,1.5,2,766,SingleFamily,121326,1250,"1,250"
+NC,Durham,27704,1109 Allgood St,50014136,2.0,3,1216,SingleFamily,98691,1095,995
+NC,Durham,27707,3008 Hope Valley Rd,49982193,1.0,2,1100,SingleFamily,203533,1325,"1,200"
+NC,Durham,27703,2721 Evanston Ave,109939185,2.5,3,2040,Townhouse,238438,1600,"1,600"
