@@ -4,7 +4,7 @@ import csv
 
 
 
-def scrapeAndCompileHousingData(url =  "http://www.zillow.com/homes/for_rent/Durham-NC/house,mobile,townhouse_type/24457_rid/36.127337,-78.64975,35.842308,-79.118729_rect/10_zm/", pages = 5):
+def scrapeAndCompileHousingData(url =  "http://www.zillow.com/homes/for_rent/Durham-NC/house,mobile,townhouse_type/24457_rid/36.127337,-78.64975,35.842308,-79.118729_rect/10_zm/", pages = 8):
     for page in range(pages):
         print('starting page :', page)
         if page == 0:
