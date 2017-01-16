@@ -1,0 +1,23 @@
+state,city,zipcode,address,zpid,bathrooms,bedrooms,sqft,homtype,zestimate,rentzestimate,real rent
+NC,Durham,27713,112 Montclair Cir,50004093,2.0,3,1689,SingleFamily,200497,1300,"1,300"
+NC,Durham,27713,114 Strangford Ln,70924418,2.5,4,2492,SingleFamily,330495,2000,"2,100"
+NC,Durham,27703,905 Reedy Way,80200051,2.5,4,2080,SingleFamily,185864,1400,"1,495"
+NC,Durham,27713,3608 Sana Ct,50005391,2.5,3,1348,SingleFamily,158179,1195,"1,195"
+NC,Durham,27703,223 Stoney Dr,59713623,2.0,4,2349,SingleFamily,229869,1550,"1,550"
+NC,Durham,27701,510 Everett Pl,49970440,2.0,3,1713,SingleFamily,270176,1650,"1,695"
+NC,Durham,27713,200 W Woodcroft Pkwy APT 54B,50000827,2.0,2,1000,Townhouse,127725,1225,"1,350"
+NC,Durham,27713,5 Beaufort Ct,109932621,3.0,3,3153,SingleFamily,394870,2232,"2,450"
+NC,Durham,27703,4905 Tyne Dr,50011511,2.0,4,1318,SingleFamily,139212,1300,"1,350"
+NC,Durham,27704,405 Pineland Ave,50014127,2.0,3,1225,SingleFamily,99934,1150,"1,150"
+NC,Durham,27705,4806 Hillsborough Rd,119255293,3.0,5,2450,SingleFamily,287973,1631,"2,500"
+NC,DURHAM,27705,4804 Hillsborough Rd,98201444,3.0,5,2450,SingleFamily,284532,1629,"2,500"
+NC,Durham,27713,1431 Crimson Creek Dr,61726622,2.5,3,1669,SingleFamily,212510,1550,"1,595"
+NC,Durham,27705,1507 W Knox St,49966550,2.0,3,1288,SingleFamily,180463,1295,"1,095"
+NC,Durham,27704,700 E Ellerbee St,49981022,1.0,2,672,SingleFamily,83041,915,949
+NC,Durham,27712,6480 Guess Rd,87618734,2.5,3,2480,SingleFamily,309262,1708,"1,695"
+NC,Durham,27701,902 Price Ave,49978960,1.5,3,1092,SingleFamily,82318,995,995
+NC,Durham,27703,5222 Dilbagh Dr,70922848,2.5,3,1586,Townhouse,179394,1350,"1,360"
+NC,Durham,27713,5531 Mccormick Rd,50002949,1.5,3,1244,SingleFamily,165615,1300,"1,300"
+NC,Durham,27707,1215 Fargo St,49979713,2.0,4,1540,SingleFamily,101476,1100,"1,100"
+NC,Durham,27707,5 Hartford Ct,49983644,2.0,2,1088,SingleFamily,112192,1050,990
+NC,Durham,27713,125 Victorian Oaks Dr,114429877,3.0,5,2769,SingleFamily,334067,2050,"2,450"

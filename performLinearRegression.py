@@ -20,13 +20,15 @@ for i in sorted(house_data.bedrooms.unique()):
     sortedByBedrooms.append(valList)
 
     
-plt.subplot(3,1,1)
+plt.subplot(2,1,1)
 plt.plot(X['sqft'], house_price, 'ro')
-plt.subplot(3,1,2)
+plt.xlabel('house area (sqft)')
+plt.ylabel('price ($)')
+plt.subplot(2,1,2)
 plt.boxplot(sortedByBedrooms)
-#plt.xticks(numBedrooms)
-plt.subplot(3,1,3)
-#plt.boxplot(X['bathrooms'], house_price)
+plt.xlabel('bedrooms')
+plt.ylabel('price ($)')
+plt.xticks(numBedrooms)
 plt.show()
 print(house_data.head())
 

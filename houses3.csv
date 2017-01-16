@@ -1,0 +1,23 @@
+state,city,zipcode,address,zpid,bathrooms,bedrooms,sqft,homtype,zestimate,rentzestimate,real rent
+NC,Durham,27713,138 Hollyhock Ct,50003303,2.0,3,1363,Townhouse,124108,1200,"1,200"
+NC,Durham,27713,4504 Conklin Dr,80204227,2.5,3,1500,SingleFamily,220187,1400,"1,395"
+NC,Durham,27704,7 Toms Rock Pl,70924291,2.5,3,1608,SingleFamily,162248,1359,"1,450"
+NC,Durham,27707,227 Ivy Meadow Ln,2106203258,3.5,3,1566,Townhouse,256401,1450,"1,629"
+NC,Durham,27707,324 Ivy Meadow Ln,2106219685,2.5,2,1332,Townhouse,218529,1370,"1,414"
+NC,Durham,27704,1023 Sweet Gale Dr,97867627,2.0,3,1420,SingleFamily,162951,1350,"1,350"
+NC,Durham,27713,3 Richardson Cir,70924459,2.0,3,2004,SingleFamily,240580,1599,"1,599"
+NC,Durham,27703,2977 Carolyn Dr,49989469,2.0,3,1450,SingleFamily,142006,1200,"1,095"
+NC,Durham,27703,12 Kramer Pl,49989332,1.0,3,1000,SingleFamily,89237,949,825
+NC,Durham,27713,117 Ebon Rd,50000123,2.0,3,1320,SingleFamily,175117,1300,"1,195"
+NC,Durham,27713,3431 Balfour E,50005271,2.0,2,1090,SingleFamily,118189,1095,"1,050"
+NC,Durham,27713,5 Lakehurst Ct,59712840,4.0,4,3046,SingleFamily,374765,2195,"2,500"
+NC,Durham,27705,4115 Peachway Dr,49994394,3.0,5,2750,SingleFamily,362282,2020,"2,400"
+NC,Durham,27703,513 N Maple St,49974533,1.0,2,1225,SingleFamily,84143,995,995
+NC,Durham,27704,1304 Cozart St UNIT 420,89665889,2.5,3,1460,Townhouse,126959,1200,"1,200"
+NC,Durham,27713,102 Perriwinkle Pl,50003325,2.0,3,1356,Townhouse,123699,1200,"1,200"
+NC,Durham,27704,4708 Miller Dr,70923938,2.0,3,1514,SingleFamily,169897,1300,"1,325"
+NC,Durham,27703,650 Ganyard Farm Way UNIT 25,89690378,3.5,3,1529,Townhouse,149875,1250,"1,250"
+NC,Durham,27713,919 Carpenter Fletcher Rd,50004385,2.5,3,1818,SingleFamily,214372,1500,"1,550"
+NC,Chapel Hill,27514,3705 High Meadow Rd,50050744,3.0,4,3385,SingleFamily,527413,2393,"2,300"
+NC,Durham,27704,2608 Shenandoah Ave,49972566,1.5,2,766,SingleFamily,121671,1250,"1,250"
+NC,Durham,27713,7 Woodhill Ct,49999389,2.5,3,1872,SingleFamily,250192,1600,"1,700"
