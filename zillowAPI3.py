@@ -34,6 +34,8 @@ def retrieveHouseData(streetAddress='401 Gray Ave', zipcode='27701'):
         houseData['bedrooms'] = xml.findAll('bedrooms')[0].text
         houseData['sqft'] = xml.findAll('finishedSqFt')[0].text
         houseData['homtype'] = xml.findAll('useCode')[0].text
+        houseData['taxAssessmentYear'] = xml.findaAll('taxAssessmentYear')[0].text
+        houseData['taxAssessment'] = xml.findAll('taxAssessment')[0].text
         houseData['zestimate'] = xml.findAll('zestimate')[0].findAll('amount')[0].text
         houseData['rentzestimate'] = xml.findAll('rentzestimate')[0].findAll('amount')[0].text
     except:
