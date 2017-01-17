@@ -34,7 +34,7 @@ print(house_data.head())
 
 #normalize the data
 for column_name in X.keys():
-    house_data[column_name + '_norm'] = (X[column_name] - np.mean(X[column_name])) / np.std(X[column_name])
+    house_data[column_name + '_norm'] = (X[column_name] - numpy.mean(X[column_name])) / numpy.std(X[column_name])
 
 #reassign normalized data
 Xnorm = house_data[['bedrooms_norm', 'bathrooms_norm', 'sqft_norm']]
